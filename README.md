@@ -13,3 +13,7 @@
 * Webpack
 * php (laravel)
 * Node.js
+
+# Отображение сайта на разных устройствах
+## Отображение сайта на компьютерах
+* [Фотографии](https://disk.yandex.ru/i/tNucuWdQi-iwcA)
